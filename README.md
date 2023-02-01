@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Sahasri</h1>
 <h3 align="center">A creative front end designer and machine learning enthusiast from India.</h3>
 
--  I’m currently working on [NK constructions](An interactive landing page of a modern enterprise.)
+-  I’m currently working on DIAHOOD - a customised diabetic diet recommendation system.
 
 -  I’m currently learning **Back-end web development**
 
