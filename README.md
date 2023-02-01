@@ -1,23 +1,24 @@
 <h1 align="center">Hey there, I'm Sahasri</h1>
 <h3 align="center">A creative front end designer and machine learning enthusiast from India.</h3>
 
-- ⚫ I’m currently working on [NK constructions](An interactive landing page of a modern enterprise.)
+-  I’m currently working on [NK constructions](An interactive landing page of a modern enterprise.)
 
-- ⚫ I’m currently learning **Back-end web development**
+-  I’m currently learning **Back-end web development**
 
-- ⚫ I’m looking to collaborate on **Anything that gets in knowledge.**
+-  I’m looking to collaborate on **Anything that gets in knowledge.**
 
-- ⚫ All of my projects are available at [www.github/sahasri02](www.github/sahasri02)
+-  All of my projects are available at [www.github/sahasri02](www.github/sahasri02)
 
-- ⚫ I regularly write about [Technology, productivity and lifestyle](Technology, productivity and lifestyle)
+-  I regularly write about : Technology, productivity and lifestyle
 
-- ⚫ Ask me about **Anything, that you feel I can solve.**
+-  Ask me about 
+     **Anything, that you feel I can solve.**
 
-- ⚫ How to reach me **sahasridimmula@gmail.com**
+-  How to reach me **sahasridimmula@gmail.com**
 
-- ⚫ Know about my experiences [https://drive.google.com/file/d/1pVMPsK_57id3xNfldwTNsu13cQixP3Y1/view?usp=drivesdk](https://drive.google.com/file/d/1pVMPsK_57id3xNfldwTNsu13cQixP3Y1/view?usp=drivesdk)
+-  Know about my experiences [https://drive.google.com/file/d/1pVMPsK_57id3xNfldwTNsu13cQixP3Y1/view?usp=drivesdk](https://drive.google.com/file/d/1pVMPsK_57id3xNfldwTNsu13cQixP3Y1/view?usp=drivesdk)
 
-- ⚫ Fun fact **I love sunsets!**
+-  Fun fact **I love sunsets!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
