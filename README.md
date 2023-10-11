@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Sahasri</h1>
-<h3 align="center">A creative front end designer and machine learning enthusiast from India.</h3>
+<h1 align="center">Sahasri Dimmula</h1>
+<h3 align="center">FullStack Web Developer</h3>
 
 -  I’m currently working on DIAHOOD - a customised diabetic diet recommendation system.
 
